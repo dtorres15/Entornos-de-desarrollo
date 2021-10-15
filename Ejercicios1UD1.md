@@ -4,29 +4,18 @@ Lenguajes de programación
 3.	Ventajas de los lenguajes compilados.                                                                                                                                           Ejecución es muy eficiente                                                                                                                                                                      
 4.	Ventajas de los lenguajes interpretados.                                                                                                                                         El código fuente se interpreta directamente                                                                                                                                                                                                                                                               
 5.	Nombra 2 lenguajes compilados y otros 2 interpretados.                                                                                                                          Compilados: html, css                                                                                                                                                            Interpretados: php, javascript                                                                                                                                                                                                             
-6.	¿Puede considerarse código objeto el bytecode generado en Java tras la compilación? Explica la respuesta.
-	Si pero solo en maquinas virtuales en jav
-7.	Pon un ejemplo de lenguaje de los siguientes tipos:                                                                                                                             -Bajo Nivel: esamblador                                                                                                                                                           -Nivel medio: C                                                                                                                                                                   -Alto Nivel: c++,java               
-
-8.	¿Qué paradigma de programación siguen los siguientes lenguajes?                                                                                                                 -C imperativos estructurados            -C++ imperativos multiparadigma                 -SQL declarativos algebraicos           -Java imperativos orientado a objetos             -Javascript imperativos multiparadigma           -Lisp declarativos funcionales         -Prolog declarativos logicos
-
-9.	Explica qué criterios pueden seguirse a la hora de elegir un lenguade de programación para el desarrollo software.
-
-Campo de aplicación ● Experiencia previa ● Herramientas de desarrollo ● Documentación disponible ● Base de usuarios ● Reusabilidad ● Portabilidad ● Imposición del cliente
-
-Ciclo de vida del sofware
-
+6.	¿Puede considerarse código objeto el bytecode generado en Java tras la compilación? Explica la respuesta.									Si pero solo en maquinas virtuales en jav																	
+7.	Pon un ejemplo de lenguaje de los siguientes tipos:                                                                                                                             -Bajo Nivel: esamblador                                                                                                                                                           -Nivel medio: C                                                                                                                                                                   -Alto Nivel: c++,java  																			             
+8.	¿Qué paradigma de programación siguen los siguientes lenguajes?                                                                                                                 -C imperativos estructurados            -C++ imperativos multiparadigma                 -SQL declarativos algebraicos           -Java imperativos orientado a objetos             -Javascript imperativos multiparadigma           -Lisp declarativos funcionales         -Prolog declarativos logicos								
+9.	Explica qué criterios pueden seguirse a la hora de elegir un lenguade de programación para el desarrollo software.							Campo de aplicación ● Experiencia previa ● Herramientas de desarrollo ● Documentación disponible ● Base de usuarios ● Reusabilidad ● Portabilidad ● Imposición del cliente																							
+Ciclo de vida del sofware																				
 1.	Define "Ciclo de vida del software".                                                                                                                                       es la estructura que contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de un producto de software, abarcando la vida completa del sistema, desde la definición de los requisitos hasta la finalización de su uso.                                                                                                                                                                                                       
 2.	Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.                                                                  ● Análisis  ●Diseño  ●Codificación  ●Pruebas  ●Mantenimiento                                                                                                                  
 3.	Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.                                                                               Es un método metodológico para secuenciar estrictamente las distintas etapas del proceso de desarrollo del software, por lo que el inicio de cada etapa debe esperar a la finalización de la etapa anterior.                                                                                                                                                                                                                                                                           
-5.	 Ventajas e inconvenientes del modelo en cascada.                                                                                                                               Ventajas:                                                                                                                                                                         Inconvenientes: -n ocasiones, los fallos solo se detectan una vez finalizado el proceso de desarrollo                                                                            - l usuario final no se integra en el proceso de producción hasta que no termina la programa-ción                                                                                                                                                                                                                                                                    
-5.	 ¿Qué se entiende por verificación? ¿Y por validación?
-
-6.	 Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.
-    
-7.	 ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
-
-
+4.	 Ventajas e inconvenientes del modelo en cascada.                                                                                                                               Ventajas: Facil identificar las principales fases del desarollo del software.                                                                                                    Inconvenientes: -n ocasiones, los fallos solo se detectan una vez finalizado el proceso de desarrollo                                                                            - l usuario final no se integra en el proceso de producción hasta que no termina la programa-ción                                                                                                                                                                                                                                                                    
+5.	 ¿Qué se entiende por verificación? ¿Y por validación?																Verificación: proceso de evaluación del sistema ya que permite determinar si los productos de una determinada fase del desarrollo satisfacen las 			condiciones impuestas en el inicio de la etapa.																Validación: Es una evaluación de un sistema o componente, solo durante el proceso de desarrollo o al final del proceso de desarrollo para determinar si cumple con los 	     requisitos.																					
+6.	 Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.													El diseño rápido se centra en una representación de aquellos aspectos del software que serán visibles para el cliente o el usuario final. La interacción ocurre cuando el 	   prototipo se ajusta para satisfacer las necesidades del cliente.																																			
+7.	¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?												-Individuos e interaciones sobre procesos y herramientas															-																						-																						-																						
 8.	 ¿Qué es una historia de usuario? Consulta el siguiente enlace:
         https://es.wikipedia.org/wiki/Historias_de_usuario
    
@@ -34,10 +23,7 @@ Ciclo de vida del sofware
         https://proyectosagiles.org/que-es-scrum/
         https://proyectosagiles.org/como-funciona-scrum/
 
-10.	SCRUM. Define los siguientes términos:
-        Product backlog.
-        Sprint backlog.
-
+10.	SCRUM. Define los siguientes términos:																		Product backlog: Lista ordenada con los requisitos del producto															Sprint backlog: Lista de requisitos sacado del backlog para su desarrollo durante el sprint																												
 11.	SCRUM. En la terminología Scrum qué términos se utilizan como sinónimo de:
         Jefe de proyecto.
         Cliente.
