@@ -1,0 +1,17 @@
+name: Deploy via ftp
+on: push
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Upload ftp
+      uses: sebastianpopp/ftp-action@releases/v2
+      with:
+        host: ${{ ftp://speedtest.tele2.net }}
+        user: ${{ anonymous }}
+        password: ${{ anonymous }}
+        localDir: "dist"
+        remoteDir: "www"
+        options: "--delete --asci"
